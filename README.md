@@ -1,2 +1,2 @@
 # golang-websocket-chat
-simple web chat application.
+simple web chat application using websocket.
